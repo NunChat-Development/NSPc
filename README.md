@@ -1,1 +1,2 @@
-# NSRC
+# NSP
+nunchat source public
